@@ -1,0 +1,7 @@
+D:\Darbs\Assignment\JiraWork2\JiraWork2\bin\Debug\JiraWork2.exe.config
+D:\Darbs\Assignment\JiraWork2\JiraWork2\bin\Debug\JiraWork2.exe
+D:\Darbs\Assignment\JiraWork2\JiraWork2\bin\Debug\JiraWork2.pdb
+D:\Darbs\Assignment\JiraWork2\JiraWork2\obj\Debug\Interop.MSXML2.dll
+D:\Darbs\Assignment\JiraWork2\JiraWork2\obj\Debug\JiraWork2.csproj.ResolveComReference.cache
+D:\Darbs\Assignment\JiraWork2\JiraWork2\obj\Debug\JiraWork2.exe
+D:\Darbs\Assignment\JiraWork2\JiraWork2\obj\Debug\JiraWork2.pdb
